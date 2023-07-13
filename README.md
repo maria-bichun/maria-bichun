@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
-<h3 align="center">A wannabe Data Scientist. I'm fond of all those fit-predict issues and not afraid of maths and statistics. I hope that my love for DS and Python programming will end up being my profession for I believe that passionate amateurs determined to constantly grow their skills are getting great professionals</h3>
+<h3 align="center">A wannabe Data Scientist. I'm fond of all those fit-predict issues and not afraid of maths and statistics. I hope that my love for DS and Python programming will end up being my profession. For I believe that passionate amateurs determined to constantly grow their skills are getting great professionals</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maria-bichun&label=Profile%20views&color=0e75b6&style=flat" alt="maria-bichun" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/maria-bichun](https://github.com/maria-bichun)
 
 - 📫 How to reach me **may88@mail.ru**
-
-- 📄 Know about my experiences [https://perm.hh.ru/resume/32019c96ff0bf9d9fd0039ed1f506231733659](https://perm.hh.ru/resume/32019c96ff0bf9d9fd0039ed1f506231733659)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
