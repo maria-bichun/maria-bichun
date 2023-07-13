@@ -10,9 +10,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/maria-bichun](https://github.com/maria-bichun)
 
-- 📫 How to reach me **may88@mail.ru**
+<h3 align="left">How to reach me:</h3>
 
-<h3 align="left">Connect with me:</h3>
+
+- 📱 [with Telegram](https://t.me/MariaBichun)
+- 📧 [by email](mailto:may88@mail.ru)
+  
 <p align="left">
 <a href="https://kaggle.com/mariabichun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mariabichun" height="30" width="40" /></a>
 </p>
