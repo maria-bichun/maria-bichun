@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
-<h3 align="center">A wannabe Data Scientist. I'm fond of all those fit-predict issues and not afraid of maths and statistics. I hope that my love for DS and Python programming will end up being my profession. For I believe that passionate amateurs determined to constantly grow their skills are getting great professionals</h3>
+<h3 align="center">A wannabe Data Scientist from Russia </h3>
+
+<p>I'm fond of all those fit-predict issues and not afraid of maths and statistics. I hope that my love for DS and Python programming will end up being my profession. For I believe that passionate amateurs determined to constantly grow their skills are getting great professionals</p>
+
+🇷🇺
+<p>Привет! Я Маша. Мечтаю, чтобы мое увлечение Data Science и Python стало моей профессией. Люблю обучать модели, сейчас изучаю Deep Larning, неплохо понимаю SQL, не исключая оконных функций 😜</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maria-bichun&label=Profile%20views&color=0e75b6&style=flat" alt="maria-bichun" /> </p>
 
